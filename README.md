@@ -9,6 +9,8 @@ We analyzed over 119,000 hotel booking records to:
 - Identify trends and patterns related to cancellations
 - Build a machine learning model to predict high-risk bookings
 
+- You can access the dataset [here on Kaggle](https://www.kaggle.com/datasets/thedevastator/hotel-bookings-analysis).
+
 ## Contributors
 
 This was a collaborative group project. Below are the individual contributions, with a focus on my role.
