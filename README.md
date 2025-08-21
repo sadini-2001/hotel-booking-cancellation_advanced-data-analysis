@@ -14,7 +14,6 @@ We analyzed over 119,000 hotel booking records to:
 ## Project Links  
 - 🖥️ [Design / Web Page Code](https://github.com/sadini-2001/hotel-booking-cancellation-prediction_web-app)
 
----
 
 ## Contributors
 
