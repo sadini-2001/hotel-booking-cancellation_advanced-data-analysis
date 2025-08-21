@@ -11,6 +11,11 @@ We analyzed over 119,000 hotel booking records to:
 
 - You can access the dataset [here on Kaggle](https://www.kaggle.com/datasets/thedevastator/hotel-bookings-analysis).
 
+## Project Links  
+- 🖥️ [Design / Web Page Code](https://github.com/sadini-2001/hotel-booking-cancellation-prediction_web-app)
+
+---
+
 ## Contributors
 
 This was a collaborative group project. Below are the individual contributions, with a focus on my role.
